@@ -32,10 +32,7 @@ When you are finished, copy and paste your code into the Skype chat and send to 
 
 `@pre_exercise_code`
 ```{r}
-# File name: LoanRiskAssessment.csv
-```{r}
-load(url("https://assets.datacamp.com/production/repositories/2695/datasets/fbfc268d44c46146a4762e13a1ca3cfd93099029/LoanRiskAssessment.csv"))
-```
+load(url(https://assets.datacamp.com/production/repositories/2695/datasets/fbfc268d44c46146a4762e13a1ca3cfd93099029/LoanRiskAssessment.csv))
 ```
 
 
@@ -67,10 +64,12 @@ Normally we would use the previous variables to determine whether an asset was f
 
 When you are finished, copy and paste your code into the Skype chat and send to the interviewer.
 
+`@hint`
+
 
 
 `@sample_code`
-```{undefined}
+```{}
 # File name: HQLA.csv
 ```
 
