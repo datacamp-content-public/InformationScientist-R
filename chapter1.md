@@ -55,6 +55,8 @@ key: ec0782eb02
 
 Another area central to the Risk Management team here at PNC is managing High Qualaity Liquid Assets (HQLA). A certain percentage of our assets are required to be HQLA. Use the attached dataset to complete the following exercise. For this exercise, we have a dataset that has the following relevant variables: Date, Security_Identifier, Dummy_CUSIP, Balance, Legal_Entity, Portfolio_Classification_Type	Portfolio_Identifier,  and an HQLA_Eligible_Flag.
 
+File name: HQLA.csv
+
 `@instructions`
 Normally we would use the previous variables to determine whether an asset was flagged as HQLA or not (Y/N). Here, we would like you to build a model(s) to determine how HQLA status is derived. Specifically, we would like to know: 
 - Which variables are important in determining HQLA status? 
