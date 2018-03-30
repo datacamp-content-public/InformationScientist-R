@@ -1,7 +1,7 @@
 ---
-title: Template Chapter 1
+title: Skype Interview - R
 description: >-
-  This is a template chapter.
+  
 
 
 ---
@@ -26,8 +26,6 @@ For each type of loan and risk score, we want to know how each is performing bot
 - Present all relevant (or interesting) findings in the form of plots or tables. Be prepared to explain your results.
 
 When you are finished, copy and paste your code into the Skype chat and send to the interviewer.
-
-`@hint`
 
 
 `@pre_exercise_code`
@@ -64,12 +62,10 @@ Normally we would use the previous variables to determine whether an asset was f
 
 When you are finished, copy and paste your code into the Skype chat and send to the interviewer.
 
-`@hint`
-
 
 
 `@sample_code`
-```{}
+```{undefined}
 # File name: HQLA.csv
 ```
 
