@@ -17,6 +17,8 @@ key: c809db5a61
 
 At PNC, we provide many types of loans for our customers. In the attached (fictitious) dataset, there are three types of loans represented, each with an associated Risk Score, Percent of Principal Remaning, and a Probability of Default score. Please use this data to complete the following exercise.
 
+File name: LoanRiskAssessment.csv
+
 `@instructions`
 For each type of loan and risk score, we want to know how each is performing both within and across groups. 
 - Summarize the results of each group
