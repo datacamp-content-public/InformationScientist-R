@@ -5,7 +5,7 @@ description: >-
 
 
 ---
-## Ex 1.1
+## Exercise 1 - Loan Risk
 
 ```yaml
 type: NormalExercise
@@ -22,6 +22,38 @@ For each type of loan and risk score, we want to know how each is performing bot
 - Summarize the results of each group
 - Determine the effect that loan type and risk score have on the performance of loans (i.e. remaining two variables). 
 - Present all relevant (or interesting) findings in the form of plots or tables. Be prepared to explain your results.
+
+When you are finished, copy and paste your code into the Skype chat and send to the interviewer.
+
+`@hint`
+
+
+
+
+
+
+
+
+
+
+
+---
+## Exercise 2 - HQLA
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: ec0782eb02
+```
+
+Another area central to the Risk Management team here at PNC is managing High Qualaity Liquid Assets (HQLA). A certain percentage of our assets are required to be HQLA. Use the attached dataset to complete the following exercise. For this exercise, we have a dataset that has the following relevant variables: Date, Security_Identifier, Dummy_CUSIP, Balance, Legal_Entity, Portfolio_Classification_Type	Portfolio_Identifier,  and an HQLA_Eligible_Flag.
+
+`@instructions`
+Normally we would use the previous variables to determine whether an asset was flagged as HQLA or not (Y/N). Here, we would like you to build a model(s) to determine how HQLA status is derived. Specifically, we would like to know: 
+- Which variables are important in determining HQLA status? 
+- Can you determine which values for those variables lead to a "Y" status?
 
 When you are finished, copy and paste your code into the Skype chat and send to the interviewer.
 
