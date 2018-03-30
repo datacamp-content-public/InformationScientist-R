@@ -27,10 +27,15 @@ For each type of loan and risk score, we want to know how each is performing bot
 
 When you are finished, copy and paste your code into the Skype chat and send to the interviewer.
 
+`@hint`
+
 
 `@pre_exercise_code`
 ```{r}
 # File name: LoanRiskAssessment.csv
+```{r}
+load(url("https://assets.datacamp.com/production/repositories/2695/datasets/fbfc268d44c46146a4762e13a1ca3cfd93099029/LoanRiskAssessment.csv"))
+```
 ```
 
 
