@@ -25,8 +25,13 @@ For each type of loan and risk score, we want to know how each is performing bot
 
 When you are finished, copy and paste your code into the Skype chat and send to the interviewer.
 
+`@hint`
 
 
+`@pre_exercise_code`
+```{r}
+# File name: LoanRiskAssessment.csv
+```
 
 
 
@@ -61,7 +66,7 @@ When you are finished, copy and paste your code into the Skype chat and send to 
 
 `@sample_code`
 ```{}
-# File name: LoanRiskAssessment.csv
+# File name: HQLA.csv
 ```
 
 
